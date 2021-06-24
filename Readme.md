@@ -2,7 +2,7 @@
 
 To Get started with the basics of Golang
 
-[GO RESOURCES FROM BEGINNER TO ADVANCED](https://www.notion.so/2f5c79e7fd144becbd5b39805c7490c7)
+[GO RESOURCES FROM BEGINNER TO ADVANCED Notion Link](https://www.notion.so/2f5c79e7fd144becbd5b39805c7490c7)
 
 # To get the Web Link
 [https://anantjakhmola.github.io/Golang-Resources-List/index.html](https://anantjakhmola.github.io/Golang-Resources-List/index.html)
